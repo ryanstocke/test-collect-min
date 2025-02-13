@@ -1,0 +1,1 @@
+# test-collect-min
